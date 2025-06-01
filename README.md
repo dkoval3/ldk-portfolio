@@ -70,4 +70,3 @@ Here are some ideas for extending the portfolio site:
 1. **Contact Form**: Include a dynamic contact form integrated with backend services like AWS Lambda and SNS.
 2. **Image Gallery**: Showcase past projects via a clickable, dynamic gallery.
 3. **Utilize SSR**: Once the project becomes more complex, update the deployment from a static website to a Node.js server to make use of Next's SSR features.
-4. **Mobile Version**: Optimize the styles, layouts, and assets for mobile devices.

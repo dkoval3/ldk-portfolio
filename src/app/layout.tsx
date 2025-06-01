@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     title: "LDK Interiors – Elegant Living Designs",
     description: "Transform your space with timeless sophistication and tailored elegance.",
     icons: {
-        icon: "/ionic_column.svg",
+        icon: "/favicon.svg",
     },
 
 };
